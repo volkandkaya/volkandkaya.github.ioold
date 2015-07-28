@@ -42,7 +42,7 @@ colors:
     light: '#c869bf'
     dark: '#c869bf'
   orange:
-    light: '#ff6600'
+    light: '#faaf22'
     dark: '#fab125'
   turquoise:
     light: '#0fbfcf'

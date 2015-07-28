@@ -5,9 +5,23 @@ color: white   #text color
 fa-icon: folder-open
 ---
 
+## Kaya Construction (Relatives Business)
+
+# ![Kaya Construction]({{ volkandkaya.github.io/kayacon/ }}/assets/kayaconst.png)
+
+## AngularJS Todo list
+
+# ![AngularJS Todo]({{ volkandkaya.github.io/todoapp/ }}/assets/todo.png)
+
 ## Tic-Tac-Toe
 
-# ![tic-tac-toe]({{ www.volkandkaya.github.io }}/assets/tic_tac_toe.png)
+# ![tic-tac-toe]({{ volkandkaya.github.io/tictactoe/ }}/assets/tictactoe.png)
+
+## Demo Landing Page
+
+# ![Demo Landing Page]({{ https://forexbull.herokuapp.com/ }}/assets/landingpage1.png)
+
+# ![Demo Landing Page]({{ https://forexbull.herokuapp.com/ }}/assets/landingpage2.png)
 
 
 
