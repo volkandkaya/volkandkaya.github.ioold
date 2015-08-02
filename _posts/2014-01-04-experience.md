@@ -33,4 +33,4 @@ fa-icon: road
 
 ###Huxlow Science College 2009 – 2011
 
-####A Levels - Mathematics, Further Mathematics and Economics
+####A Levels - Mathematics - A, Further Mathematics - B and Economics - C
