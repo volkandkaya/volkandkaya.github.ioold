@@ -33,6 +33,21 @@ fa-icon: folder-open
 - Responsive todo list in AngularJS with multiple lists
 - Bower, Grunt, npm used with ngBoilerplate
 
+
+---
+
+
+
+## [Stock of the Day](https://github.com/volkandkaya/Stocks-PHP/)
+
+# ![Stock of the Day]({{ https://github.com/volkandkaya/Stocks-PHP/}}/assets/stockday.png)
+
+- A stock picker based on the technical indicator RSI (Relative Strength Index)
+- Created in PHP using the Laravel framework
+- Used Yahoo! Finance API for data
+-  [TradingView widget](https://www.tradingview.com/widget/) used for the graphs
+
+
 ---
 
 
