@@ -5,6 +5,20 @@ color: white   #text color
 fa-icon: road
 ---
 
+## Bedford College - Junior Web Developer
+
+### September 2015 - Present
+
+- Worked on a web-based E-Learning platform for over 17,000 users
+
+- Debugged issues in the codebase
+
+- Created bespoke open source software for over 20 large institutions
+
+- Performed technical support and assisted customers one-on-one
+
+<br>
+
 ## FX/Derivate Securites - Trading Partnership
 
 ### September 2013
